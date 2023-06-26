@@ -1,0 +1,12 @@
+E:\Projetos\Develine\Establishment\develine-ecommerce-ms-establishment\MS.Establishment.Utils\bin\Debug\net6.0\MS.Establishment.Utils.deps.json
+E:\Projetos\Develine\Establishment\develine-ecommerce-ms-establishment\MS.Establishment.Utils\bin\Debug\net6.0\MS.Establishment.Utils.dll
+E:\Projetos\Develine\Establishment\develine-ecommerce-ms-establishment\MS.Establishment.Utils\bin\Debug\net6.0\MS.Establishment.Utils.pdb
+E:\Projetos\Develine\Establishment\develine-ecommerce-ms-establishment\MS.Establishment.Utils\obj\Debug\net6.0\MS.Establishment.Utils.csproj.AssemblyReference.cache
+E:\Projetos\Develine\Establishment\develine-ecommerce-ms-establishment\MS.Establishment.Utils\obj\Debug\net6.0\MS.Establishment.Utils.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Develine\Establishment\develine-ecommerce-ms-establishment\MS.Establishment.Utils\obj\Debug\net6.0\MS.Establishment.Utils.AssemblyInfoInputs.cache
+E:\Projetos\Develine\Establishment\develine-ecommerce-ms-establishment\MS.Establishment.Utils\obj\Debug\net6.0\MS.Establishment.Utils.AssemblyInfo.cs
+E:\Projetos\Develine\Establishment\develine-ecommerce-ms-establishment\MS.Establishment.Utils\obj\Debug\net6.0\MS.Establishment.Utils.csproj.CoreCompileInputs.cache
+E:\Projetos\Develine\Establishment\develine-ecommerce-ms-establishment\MS.Establishment.Utils\obj\Debug\net6.0\MS.Establishment.Utils.dll
+E:\Projetos\Develine\Establishment\develine-ecommerce-ms-establishment\MS.Establishment.Utils\obj\Debug\net6.0\refint\MS.Establishment.Utils.dll
+E:\Projetos\Develine\Establishment\develine-ecommerce-ms-establishment\MS.Establishment.Utils\obj\Debug\net6.0\MS.Establishment.Utils.pdb
+E:\Projetos\Develine\Establishment\develine-ecommerce-ms-establishment\MS.Establishment.Utils\obj\Debug\net6.0\ref\MS.Establishment.Utils.dll

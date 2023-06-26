@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="10.1.1" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+	  <Folder Include="Interfaces\" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+	  <ProjectReference Include="..\MS.Establishment.Domain\MS.Establishment.Domain.csproj" />
+	  <ProjectReference Include="..\MS.Establishment.Infra.DataAccess\MS.Establishment.Infra.DataAccess.csproj" />
+	  <ProjectReference Include="..\MS.Establishment.Utils\MS.Establishment.Utils.csproj" />
+	</ItemGroup>
+
+
+</Project>
